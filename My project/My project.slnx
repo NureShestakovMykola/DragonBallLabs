@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="ProceduralUITool.Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="ProceduralUITool.Tests.csproj" />
+  <Project Path="ProceduralUITool.Runtime.csproj" />
+</Solution>
