@@ -41,6 +41,7 @@ Il2cppBuildCache/
 [Bb]urst*/**/cache/
 
 UserSettings/
+
 *.apk
 *.aab
 *.ipa
@@ -49,6 +50,8 @@ UserSettings/
 *.dll
 *.so
 *.dylib
+
 sysinfo.txt
+
 .collab/
 *.log
